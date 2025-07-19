@@ -107,7 +107,7 @@
 <div align="center">
 
 ### 💬 LETS COLLAB..!
-[![Email](https://img.shields.io/badge/Email-tomyblog007@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sriram0031@gmail.com )
+[![Email](https://img.shields.io/badge/Email-sriram0031@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sriram0031@gmail.com )
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/srinivas-nv-720822278/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SrinivasNv2005/)
 
